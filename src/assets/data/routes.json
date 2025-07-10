@@ -1,0 +1,49 @@
+{
+  "routes": [
+    {
+      "path": "",
+      "title": "MENUITEMS.HOME.TEXT",
+      "iconType": "feather",
+      "icon": "monitor",
+      "class": "menu-toggle",
+      "groupTitle": false,
+      "badge": "",
+      "badgeClass": "",
+      "submenu": [
+        {
+          "path": "/dashboard/main",
+          "title": "MENUITEMS.HOME.LIST.DASHBOARD1",
+          "iconType": "",
+          "icon": "",
+          "class": "ml-menu",
+          "groupTitle": false,
+          "badge": "",
+          "badgeClass": "",
+          "submenu": []
+        },
+        {
+          "path": "/dashboard/dashboard2",
+          "title": "MENUITEMS.HOME.LIST.DASHBOARD2",
+          "iconType": "",
+          "icon": "",
+          "class": "ml-menu",
+          "groupTitle": false,
+          "badge": "",
+          "badgeClass": "",
+          "submenu": []
+        }
+      ]
+    },
+    {
+      "path": "advance-table",
+      "title": "MENUITEMS.ADVANCE-TABLE.TEXT",
+      "iconType": "feather",
+      "icon": "codepen",
+      "class": "",
+      "groupTitle": false,
+      "badge": "",
+      "badgeClass": "",
+      "submenu": []
+    }
+  ]
+}
